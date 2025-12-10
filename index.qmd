@@ -2,10 +2,10 @@
 title: "My Python Package!"
 ---
 
-Here is a website all about my package for STAT 386!
+Here is a website all about our package for STAT 386!
 
-Documentation [here](Documentation.qmd).
+You can find our documentation [here](Documentation.qmd).
 
-Get started [here](Tutorial.qmd).
+Learn how to use our package [here](Tutorial.qmd).
 
-Review the [technical report](TechnicalReport.qmd).
+And look the technical report to see what we learned [here](TechnicalReport.qmd).

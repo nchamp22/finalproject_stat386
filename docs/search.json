@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "My Python Package!",
     "section": "",
-    "text": "Here is a website all about my package for STAT 386!\nDocumentation here.\nGet started here.\nReview the technical report."
+    "text": "Here is a website all about our package for STAT 386!\nYou can find our documentation here.\nLearn how to use our package here.\nAnd look the technical report to see what we learned here."
   },
   {
     "objectID": "TechnicalReport.html",
@@ -39,7 +39,7 @@
     "href": "TechnicalReport.html#data-sources",
     "title": "Technical Report",
     "section": "Data Sources",
-    "text": "Data Sources\n\nPrimary dataset: TODO - name and link\nSupplementary data: TODO - describe any external references\nData access notes: TODO - mention licenses or refresh cadence"
+    "text": "Data Sources\nThe primary dataset that we - Primary dataset: TODO - name and link - Supplementary data: TODO - describe any external references - Data access notes: TODO - mention licenses or refresh cadence"
   },
   {
     "objectID": "TechnicalReport.html#methodology",

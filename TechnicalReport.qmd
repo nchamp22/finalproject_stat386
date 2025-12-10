@@ -19,6 +19,13 @@ _TODO: Describe the motivation, stakeholders, and success criteria for this anal
 
 ## Methodology
 
+1. Data Acquisition
+
+We collected data from [OpenAQ](https://openaq.org/), a nonprofit that aggregates and provides open air quality data globally. We accessed this data with an API key and .....
+
+The second source of data we used was the [Measure of America](https://measureofamerica.org/maps/) website. Measure of America is an initiative of the Social Science Research Council in Brooklyn, New York, and it provides information on each state's demographics, Human Development Index, housing situation, crime, environmental conditions, and more. This data did not need to be scraped; it was downloaded as Excel files, which we then cleaned and combined with our PM2.5 data.
+
+
 1. _Data acquisition:_ `TODO - outline collection scripts/APIs`
 2. _Cleaning pipeline:_ `TODO - summarize transformations and validations implemented`
 3. _Analysis workflow:_ `TODO - describe statistical or modeling techniques`
