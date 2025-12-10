@@ -1,0 +1,11 @@
+[project]
+name = "analysis-for-final-project"
+version = "0.1.0"
+description = "A Streamlit app to visualize data from our final project. "
+requires-python = ">=3.10"
+
+[project.dependencies]
+streamlit = "^1.29.0"
+pandas = "^2.0.3"
+plotly = "^5.16.1"
+us = "^2.0.2"
