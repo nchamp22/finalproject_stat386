@@ -1,11 +1,19 @@
 [project]
-name = "analysis-for-final-project"
+name = "final_project_stat386"
 version = "0.1.0"
-description = "A Streamlit app to visualize data from our final project. "
+description = "Streamlit app for STAT386 final project"
 requires-python = ">=3.10"
 
-[project.dependencies]
-streamlit = "^1.29.0"
-pandas = "^2.0.3"
-plotly = "^5.16.1"
-us = "^2.0.2"
+dependencies = [
+    "streamlit>=1.29.0",
+    "pandas>=2.0.3",
+    "plotly>=5.16.1",
+    "us>=2.0.2"
+]
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry]
+package-mode = false
