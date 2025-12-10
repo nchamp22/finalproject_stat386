@@ -1,6 +1,0 @@
----
-title: "Getting Started"
-jupyter: python3
----
-
-Here is how you use my package:
