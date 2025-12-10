@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 import us
 
-df = pd.read_csv("final_data_set.csv")
+df = pd.read_csv("streamlit_app/final_data_set.csv")
 
 
 st.title("Visualize our Project!")
